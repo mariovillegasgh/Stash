@@ -1,0 +1,6 @@
+# Name: AdBlock
+# Author: Mario Villegas
+# Update: 2024-01-24 05:07:49
+
+# Google
+doubleclick.net
