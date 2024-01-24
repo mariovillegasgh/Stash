@@ -1,5 +1,2 @@
-# Name: AdBlock
-# Author: Mario Villegas
-# Update: 2024-01-24 05:07:49
-  - DOMAIN-SUFFIX,crashlytics.com
-  - DOMAIN-SUFFIX,doubleclick.net
+.doubleclick.net
+www.googletagmanager.com
