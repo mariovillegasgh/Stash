@@ -1,2 +1,10 @@
+.2mdn.net
+.app-measurement.com
+.crashlytics.com
 .doubleclick.net
-www.googletagmanager.com
+.google-analytics.com
+.googleanalytics.com
+.googleadservices.com
+.googlesyndication.com
+.googletagmanager.com
+.googletagservices.com
